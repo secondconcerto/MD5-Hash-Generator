@@ -1,0 +1,2 @@
+LIBRARY LibraryDll
+EXPORTS _MD5
